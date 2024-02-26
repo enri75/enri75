@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @enri75
+- 👀 I’m interested in mobile development
+- 🌱 I’m currently learning kotlin 
+- 💞️ I’m looking to collaborate on android libraries
+- 📫 Contact me by email apolo75ms@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: my 2018 laptop doesnt like android studio
